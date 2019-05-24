@@ -1,6 +1,6 @@
 <?php
 
-namespace FondOfSpryker\Zed\CompanyCustomerConnector\Communication\Plugin\Customer;
+namespace FondOfSpryker\Zed\CompanyCompanyUserConnector\Communication\Plugin\CompanyUser;
 
 use Generated\Shared\Transfer\CompanyUserTransfer;
 use Spryker\Zed\CompanyUserExtension\Dependency\Plugin\CompanyUserHydrationPluginInterface;
