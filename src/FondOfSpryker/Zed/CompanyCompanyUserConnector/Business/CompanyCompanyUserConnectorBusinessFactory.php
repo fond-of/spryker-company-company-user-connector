@@ -19,8 +19,6 @@ class CompanyCompanyUserConnectorBusinessFactory extends AbstractBusinessFactory
     }
 
     /**
-     * @throws
-     *
      * @return \FondOfSpryker\Zed\CompanyCompanyUserConnector\Dependency\Facade\CompanyCompanyUserConnectorToCompanyFacadeInterface
      */
     protected function getCompanyFacade(): CompanyCompanyUserConnectorToCompanyFacadeInterface
